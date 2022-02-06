@@ -2,10 +2,11 @@
 
 I'm in love with JavaScript and React, so I actively search for jobs in the field.
 
-![This is an image](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif) ### About Me
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="30" height="10"/>
+###About Me
+
 🎓  __I have a Master's degree in International Business.__
 💻  __Currently studying for Full Stack JS Developer at SoftUni, a Software University.__
-
 
 
 :octocat: __##GitHub Analytics__
