@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gergana
 
-I'm in love with JavaScript and React, so I actively search for jobs in the field.
+I'm in love with Front-End Development, so I actively search for jobs in the field.
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="70" height="40"/>   About me
 
