@@ -1,19 +1,12 @@
-### Hi there 👋 I'm Gergana
+### Hi there 👋 I'm Gergana Ivanova
 
-I'm in love with Front-End Development, so I actively search for jobs in the field.
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="70" height="40"/>   About me
-
-🎓  I have a Master's degree in International Business.
-
-💻  Currently studying for Full Stack JS Developer at SoftUni, a Software University.
+| Full Stack Developer | 
 
 
 :octocat: GitHub Analytics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerganaivvanova)](https://github.com/anuraghazra/github-readme-stats)
 
- 
 
 🛠 Tech Stack & Other Useful Proficiencies 
 
